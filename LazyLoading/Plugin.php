@@ -6,6 +6,7 @@
  * @package LazyLoading 
  * @author LittleJake
  * @version 1.0.0
+ * @site https://blog.littlejake.tk
  */
 class LazyLoading_Plugin implements Typecho_Plugin_Interface {
      /**
